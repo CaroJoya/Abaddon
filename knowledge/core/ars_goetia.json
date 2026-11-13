@@ -1,0 +1,63 @@
+{
+  "title": "Ars Goetia",
+  "full_title_variants": [
+    "Ars Goetia",
+    "The Goetia of Solomon",
+    "The First Book of the Lemegeton",
+    "Clavicula Salomonis Regis (Book 1)"
+  ],
+  "what_it_is": "The first grimoire (book) of the Lemegeton, or Lesser Key of Solomon. It catalogues 72 spirits — their names, ranks, legions, appearances, offices (powers), and seals — and describes the ceremonial apparatus used to invoke and evoke them.",
+  "lemegeton": {
+    "also_known_as": "Lesser Key of Solomon; Clavicula Salomonis Regis",
+    "attribution": "Traditionally attributed to King Solomon",
+    "five_parts": [
+      {
+        "part": 1,
+        "name": "Goetia",
+        "description": "A Book of Evil Spirits, showing how Solomon bound them and used them in general things, whereby he obtained great fame."
+      },
+      {
+        "part": 2,
+        "name": "Theurgia-Goetia",
+        "description": "A Book of Spirits, partly Evil and partly Good — all Aerial Spirits, etc."
+      },
+      {
+        "part": 3,
+        "name": "Ars Paulina (Pauline Art)",
+        "description": "Of Spirits governing the Planetary Hours, and what Spirits belong to every degree of the Signs, and Planets in the Signs."
+      },
+      {
+        "part": 4,
+        "name": "Ars Almadel Salomonis (Almadel of Solomon)",
+        "description": "Contains those Spirits which govern the Four Altitudes, or the 360 Degrees of the Zodiac. (One manuscript variant says 'Twenty Chief Spirits' govern the Four Altitudes.)"
+      },
+      {
+        "part": 5,
+        "name": "Ars Nova / Ars Notaria (Notary Art)",
+        "description": "A Book of Orations and Prayers that Wise Solomon used upon the Altar in the Temple; revealed to him by the Angel Michael, including brief Notes written with the Finger of God."
+      }
+    ],
+    "note_on_parts": "Parts 3 and 4 (Ars Paulina and Ars Almadel) are classed together as Theurgia and are said to relate to Good Spirits, to be sought by Divine seeking. Parts 1 and 2 are Goetia / Theurgia-Goetia.",
+    "manuscript_claim": "The books were said to be first found in the Chaldee and Hebrew Tongues at Jerusalem by a Jewish Rabbi, and by him put into the Greek language and thence into the Latin."
+  },
+  "history": {
+    "attributed_source": "Despite attribution to King Solomon, the commonly attributed source for the Goetia is Johann Weyer's Pseudomonarchia Daemonum in his De praestigiis daemonum.",
+    "transmission": "Translated from ancient manuscripts in the British Museum, London (per the De Laurence edition title page). The 1904 Mathers/Crowley edition was collated from numerous ancient manuscripts in Hebrew, Latin, and French.",
+    "edition_used_here": "De Laurence 1916 (Project Gutenberg eBook #72679), which is derived from the Mathers/Crowley 1904 edition.",
+    "preface_note_1904": "The 1904 preface states the translation was done 'by G. H. Fra. D.D.C.C.F.' under the Secret Chief of the Rosicrucian Order, and completed by Aleister Crowley after the original translator's death."
+  },
+  "contents_summary": [
+    "Names, orders (ranks), and offices of 72 demons",
+    "Seals/sigils for each spirit (200 diagrams and seals in the De Laurence edition)",
+    "Instructions for protecting oneself when conjuring them (descriptive)",
+    "The magical circle, triangle, hexagram, pentagram, ring/disc, and Vessel of Brass",
+    "Conjurations, curses, and license to depart (textual content only — see occult/summoning.json)"
+  ],
+  "etymology": {
+    "term": "Goetia",
+    "latin": "goetia (pronounced /go'ɛtia/)",
+    "greek_origin": "γονητεία (sorcery/witchcraft); from stem goēt- (γόητ-) of noun goēs (γόης), 'sorcerer' or 'wizard'",
+    "usage_note": "In ancient Greece the term was originally derogatory, used of fraudulent and low-class magic, in opposition to theurgy (the magic of priests and philosophers)."
+  },
+  "sources": ["De Laurence 1916 (Project Gutenberg #72679)", "Goetia (magic) — Wikipedia", "Magic in the Greco-Roman world — Wikipedia", "Theurgy — Wikipedia"]
+}

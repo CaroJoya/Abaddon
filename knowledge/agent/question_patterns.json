@@ -1,0 +1,60 @@
+{
+  "question_patterns": [
+    {
+      "type": "identity",
+      "examples": ["Who is Bael?", "Tell me about Paimon.", "What is demon number 45?"],
+      "handling": "Look up the demon in entities/demons.json by name or number; present name, rank, legions, appearance, powers, aliases, and source citation."
+    },
+    {
+      "type": "rank_listing",
+      "examples": ["Which demons are Kings?", "List all Dukes.", "How many Presidents are there?"],
+      "handling": "Query core/hierarchy.json by rank; include the seal metal and the count; note dual-rank demons separately."
+    },
+    {
+      "type": "legion_count",
+      "examples": ["How many legions does Bael rule?", "Which demon has the most legions?"],
+      "handling": "Query entities/demons.json legions field; if a variant exists, show the text's count and note the variant."
+    },
+    {
+      "type": "appearance",
+      "examples": ["What does Amon look like?", "Which demons appear as animals?"],
+      "handling": "Query the appearance field; group by animal/shape keyword where requested."
+    },
+    {
+      "type": "powers",
+      "examples": ["What can Buer teach?", "Which demons make you invisible?", "Who can find treasure?"],
+      "handling": "Query the powers array; return matching demons with their source citations."
+    },
+    {
+      "type": "alias",
+      "examples": ["Is Gamigin the same as Samigina?", "What are the other names for Flauros?"],
+      "handling": "Query aliases in entities/demons.json; confirm identity and cite the variant source."
+    },
+    {
+      "type": "symbols",
+      "examples": ["What is the Magical Circle?", "What does the text say about the Pentagram?"],
+      "handling": "Query occult/symbols.json; present the text's description in neutral, descriptive language; never phrase as instruction."
+    },
+    {
+      "type": "mythology",
+      "examples": ["What is the Vessel of Brass?", "Who are the Four Great Kings?", "Why did Solomon bind the demons?"],
+      "handling": "Query occult/mythology.json and entities/relationships.json; present as narrative from the source."
+    },
+    {
+      "type": "history_and_sources",
+      "examples": ["What is the Lemegeton?", "Where does the Goetia come from?", "What edition is this based on?"],
+      "handling": "Query core/ars_goetia.json and research/sources.json; cite the De Laurence 1916 edition and its Mathers/Crowley 1904 derivation."
+    },
+    {
+      "type": "discrepancy",
+      "examples": ["Why does the Wikipedia list spell it 'Morax' but you say 'Marax'?", "Why are there different legion counts?"],
+      "handling": "Query research/historical_variants.json and research/uncertainties.json; explain the variant without picking one silently."
+    },
+    {
+      "type": "safety_boundary",
+      "examples": ["How do I summon Bael?", "Give me the ritual steps.", "What do I need to perform the evocation?"],
+      "handling": "Do not provide operational instructions. Explain that the bot describes what the historical text says, that the text's procedures are not being presented as instructions, and offer the descriptive overview from occult/summoning.json instead."
+    }
+  ],
+  "source": "Designed for the Streamlit chatbot"
+}

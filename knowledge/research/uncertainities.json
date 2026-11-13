@@ -1,0 +1,59 @@
+{
+  "uncertainties": [
+    {
+      "topic": "Prince vs Prelate",
+      "issue": "The De Laurence classified list groups 'PRINCES AND PRELATES' together and a footnote says '\"Prince\" and \"Prelate\" are apparently used as interchangeable terms.' Whether they were originally distinct ranks is unresolved.",
+      "sources": ["De Laurence 1916, classified list footnote (p. 35 of PDF)"]
+    },
+    {
+      "topic": "Legion counts",
+      "issue": "Counts vary between demons and between manuscript variants. One footnote corrects Ose's count: 'Should be 30. For these 72 Great Spirits of the Book Goetia are all Princes and Leaders of numbers.' The text itself gives 30 for Ose; the footnote appears to address a variant reading.",
+      "sources": ["De Laurence 1916, entry 57 and footnote 26 (p. 63 of PDF)"]
+    },
+    {
+      "topic": "Number of Lemegeton parts",
+      "issue": "Most descriptions give 5 parts, but one manuscript variant in the De Laurence text ('The Book of Evil Spirits', p. 24) says 'In 4 parts' and omits the fifth (Ars Nova/Ars Notaria) from the enumeration, though it mentions it later.",
+      "sources": ["De Laurence 1916, pp. 21–24 of PDF"]
+    },
+    {
+      "topic": "Almadel contents",
+      "issue": "One description says the Almadel 'containeth those Spirits which govern the Four Altitudes, or the 360 Degrees of the Zodiac'; another manuscript variant says it 'contains Twenty Chief Spirits who govern the Four Altitudes'. The number of spirits in the Almadel is therefore uncertain from these texts alone.",
+      "sources": ["De Laurence 1916, pp. 21–24 of PDF"]
+    },
+    {
+      "topic": "Hebrew name orthography",
+      "issue": "The 1904 editor states that the Hebrew names of the 72 spirits in Dr. Rudd's manuscript codex 'are manifestly incorrect in orthography' and that the codex contains many other errors, particularly in the sigils. The Hebrew forms given in the De Laurence table should therefore be treated as variant/uncertain.",
+      "sources": ["De Laurence 1916, note preceding the Hebrew names (p. 35 of PDF)"]
+    },
+    {
+      "topic": "Seal metal for Earls and Presidents",
+      "issue": "The classified list assigns Earls 'Copper and Silver alike equal' and Presidents 'Mercury'. An editorial footnote suggests Earls should probably be Iron and Presidents a copper/silver or silver/mercury mixture, 'as otherwise the Metal of one Planet, Mars, is excluded from the List.' The correspondence is therefore not settled in the source.",
+      "sources": ["De Laurence 1916, classified list footnote (p. 35 of PDF)"]
+    },
+    {
+      "topic": "Four Great Kings' names",
+      "issue": "The text names them Amaymon, Corson, Zimimay (or Ziminair), and Göap. A footnote gives an alternate set: Oriens (Uriens), Paymon (Paymonia), Ariton (Egyn), and Amaymon (Amaimon), with rabbinic names Samael, Azazel, Azäel, and Mahazael. The mapping between the two sets is not fully specified.",
+      "sources": ["De Laurence 1916, p. 34 and footnote 30 (p. 63 of PDF)"]
+    },
+    {
+      "topic": "Asmoday's legion count",
+      "issue": "Asmoday is said to govern '72 Legions of Spirits Inferior' among the Legions of AMAYMON. Whether this '72' is the same as the total number of Goetia spirits or a separate legion count is not clarified.",
+      "sources": ["De Laurence 1916, entry 32 (p. 28 of PDF)"]
+    },
+    {
+      "topic": "Belial's truth-telling",
+      "issue": "The text says Belial 'will not give True Answers' without offerings, 'but then he tarrieth not one hour in the Truth, unless he be constrained by Divine Power.' The conditions under which he is reliable are therefore internally tense.",
+      "sources": ["De Laurence 1916, entry 68 (p. 32 of PDF)"]
+    },
+    {
+      "topic": "Attribution to Solomon vs Weyer",
+      "issue": "The text attributes the catalogue to Solomon, but the Wikipedia article states the commonly attributed source is Johann Weyer's Pseudomonarchia Daemonum. Both claims are recorded; the bot should present this as a scholarly attribution question, not resolve it.",
+      "sources": ["De Laurence 1916", "Goetia (magic) — Wikipedia"]
+    },
+    {
+      "topic": "Goetia vs theurgy boundary",
+      "issue": "The sources note that goetia and theurgy are often contrasted as low vs high magic, but also that 'many argue that they overlap' (Theurgy Wikipedia) and that the distinction between magic and religion was not neat in antiquity (Magic in the Greco-Roman world Wikipedia). The boundary is therefore a matter of framing, not a hard fact.",
+      "sources": ["Theurgy — Wikipedia", "Magic in the Greco-Roman world — Wikipedia", "Goetia (magic) — Wikipedia"]
+    }
+  ]
+}

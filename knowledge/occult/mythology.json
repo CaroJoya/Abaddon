@@ -1,0 +1,27 @@
+{
+  "solomon": {
+    "role": "The traditional attributor and binder of the 72 spirits. The text says he bound them 'because of their pride' and never declared another reason.",
+    "wisdom": "In Greco-Roman and Jewish tradition, Solomon was seen as the greatest scientist and occultist of his time, learned in astrology, plant magic, daemonology, divination, and physika. Josephus writes that God gave Solomon knowledge of the art used against daemons, to heal and benefit men.",
+    "sources": ["De Laurence 1916", "Magic in the Greco-Roman world — Wikipedia"]
+  },
+  "vessel_of_brass": {
+    "narrative": "Solomon bound the 72 spirits with their legions in a Vessel of Brass and sealed it with the Secret Seal of Solomon. By Divine Power he chased them all into a deep Lake or Hole in Babylon. The people of Babylon, wondering, went wholly into the lake to break the vessel open, expecting great store of Treasure. When they broke it open, out flew the Chief Spirits immediately, with their legions following. They were all restored to their former places except Belial, who entered into a certain Image and thence gave answers unto those who offered Sacrifices unto him and worshipped the Image as their God.",
+    "comparison": "The text compares this to the 'Fisherman and the Jinni' story in the Arabian Nights, in which one jinni (named Sakhr or Sacar) was shut in a vessel of yellow brass covered with a leaden seal.",
+    "source": "De Laurence 1916, p. 33 and p. 41 of PDF"
+  },
+  "the_fall": {
+    "narrative": "Several demons are said to have fallen from specific celestial orders (Virtues, Thrones, Dominations, Powers, Potentates, Angels). Astaroth 'will declare wittingly how the Spirits fell, if desired, and the reason of his own fall'. Belial 'declareth that he fell first from among the worthier sort, that were before Michael, and other Heavenly Angels'. Marchosias, Phenex, and Focalor each express hope of returning to the Seventh Throne after 1,200 or 1,000 years.",
+    "source": "De Laurence 1916, entries 29, 35, 37, 41, 68"
+  },
+  "four_great_kings_mythology": {
+    "names": ["Amaymon", "Corson", "Zimimay (Ziminair)", "Göap"],
+    "description": "Said to rule the four cardinal quarters and to govern all 72 spirits; not to be called except upon Great Occasions, but to be invocated and commanded to send the spirit under their power.",
+    "alternate_rabbinic_names": "A footnote says the four are usually called Oriens (Uriens), Paymon (Paymonia), Ariton (Egyn), and Amaymon (Amaimon); by the Rabbins they are frequently entitled Samael, Azazel, Azäel, and Mahazael.",
+    "source": "De Laurence 1916, p. 34 and footnote 30 (p. 63 of PDF)"
+  },
+  "greco_roman_context": {
+    "goetia_vs_theurgy": "Goetia was originally a derogatory Greek term for low or fraudulent magic, contrasted with theurgy (the magic of priests and philosophers). Theurgy aimed at henosis (union with the divine); goetia was associated with private, manipulative, or suspect practice.",
+    "daemons": "In Greco-Roman thought, daemons were intermediate beings between gods and humans, some good and some evil; Plutarch and Apuleius take their existence for granted. Christian writers drew a sharp line between their own practice and 'magic'.",
+    "source": "Magic in the Greco-Roman world — Wikipedia; Theurgy — Wikipedia; Goetia (magic) — Wikipedia"
+  }
+}

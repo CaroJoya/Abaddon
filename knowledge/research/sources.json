@@ -1,0 +1,54 @@
+{
+  "sources": [
+    {
+      "id": "de_laurence_1916",
+      "title": "The Lesser Key of Solomon, Goetia, the Book of Evil Spirits",
+      "editor": "L. W. De Laurence",
+      "publisher": "de Laurence, Scott & Co., Chicago",
+      "date": 1916,
+      "access": "Project Gutenberg eBook #72679 (release date January 11, 2024)",
+      "primary_use": "Primary entity source for all 72 demon entries, ranks, legions, appearances, powers, aliases, seals, and ceremonial descriptions.",
+      "reliability_notes": "Public-domain reprint. Derived from the Mathers/Crowley 1904 edition (the 1904 preface and the 'Initiated Interpretation' are present; the 1904 editor's footnotes are retained). The De Laurence edition adds its own title page claims ('Only Authorized Edition Extant', 'Translated from Ancient Manuscripts in the British Museum'). Its Hebrew-name table on p. 6 is noted by the 1904 editor as containing manifestly incorrect orthography.",
+      "flag": "derived from Mathers/Crowley 1904"
+    },
+    {
+      "id": "mathers_crowley_1904",
+      "title": "The Goetia: The Lesser Key of Solomon the King (Lemegeton, Book 1, Clavicula Salomonis Regis)",
+      "authors": ["S. L. MacGregor Mathers", "Aleister Crowley"],
+      "date": 1904,
+      "reliability_notes": "The translation/edition underlying the De Laurence 1916 text. Collated from numerous ancient manuscripts in Hebrew, Latin, and French. The preface claims Rosicrucian order sponsorship and completion by Crowley. Not separately consulted here; represented via the De Laurence derivative.",
+      "flag": "primary ancestor of de_laurence_1916"
+    },
+    {
+      "id": "weyer_pseudomonarchia",
+      "title": "Pseudomonarchia Daemonum (in De praestigiis daemonum)",
+      "author": "Johann Weyer",
+      "date": "1563 (De praestigiis); Pseudomonarchia appended 1577",
+      "reliability_notes": "Commonly cited as the attributed source for the Goetia's catalogue of 72 spirits, despite the Solomonic attribution. Not consulted directly here; cited via the Goetia Wikipedia article.",
+      "flag": "cited as attributed source; not directly consulted"
+    },
+    {
+      "id": "wikipedia_goetia",
+      "title": "Goetia (magic)",
+      "publisher": "Wikipedia",
+      "reliability_notes": "Tertiary encyclopedic source. Used for etymology, the goetia/theurgy distinction, the Ars Goetia overview, the 72-name list with ranks, and the Weyer attribution. Its 72-name list differs in spelling from De Laurence in several places (see historical_variants.json).",
+      "flag": "tertiary"
+    },
+    {
+      "id": "wikipedia_magic_greco_roman",
+      "title": "Magic in the Greco-Roman world",
+      "publisher": "Wikipedia",
+      "reliability_notes": "Tertiary encyclopedic source with citations to Betz, Luck, Dodds, Pliny, etc. Used for the goetia/theurgy distinction, daemonology, curse tablets, amulets, and the Solomon-as-occultist tradition.",
+      "flag": "tertiary"
+    },
+    {
+      "id": "wikipedia_theurgy",
+      "title": "Theurgy",
+      "publisher": "Wikipedia",
+      "reliability_notes": "Tertiary encyclopedic source. Used for definitions of theurgy, henosis, Neoplatonic emanation, Iamblichus, and the theurgy/goetia contrast.",
+      "flag": "tertiary"
+    }
+  ],
+  "primary_entity_source": "de_laurence_1916",
+  "citation_display_guidance": "When the bot cites a demon entry, it should cite 'De Laurence 1916, Spirit N.' When it cites context or etymology, it should cite the relevant Wikipedia article by title."
+}

@@ -1,0 +1,44 @@
+{
+  "dual_rank_demons": [
+    {"name": "Botis", "ranks": ["President", "Earl"]},
+    {"name": "Marax", "ranks": ["Earl", "President"]},
+    {"name": "Glasya-Labolas", "ranks": ["President", "Earl"]},
+    {"name": "Ronové", "ranks": ["Marquis", "Earl"]},
+    {"name": "Viné", "ranks": ["King", "Earl"]},
+    {"name": "Ipos", "ranks": ["Earl", "Prince"]},
+    {"name": "Gäap", "ranks": ["President", "Prince"]},
+    {"name": "Zagan", "ranks": ["King", "President"]},
+    {"name": "Murmur", "ranks": ["Duke", "Earl"]}
+  ],
+  "four_great_kings": {
+    "names": ["Amaymon (Amaimon)", "Corson", "Zimimay (Ziminair)", "Göap"],
+    "description": "Said to rule the four quarters/cardinal points (East, West, North, South), governing all 72 spirits; not to be called forth except upon Great Occasions, but to be invocated and commanded to send the spirit under their power.",
+    "alternate_naming": "A footnote states these four Great Kings are usually called Oriens (or Uriens), Paymon (or Paymonia), Ariton (or Egyn), and Amaymon (or Amaimon); by the Rabbins they are frequently entitled Samael, Azazel, Azäel, and Mahazael.",
+    "demons_explicitly_under_a_great_king": [
+      {"demon": "Asmoday", "relation": "First and choicest under the Power of AMAYMON; governs 72 Legions among the Legions of AMAYMON"},
+      {"demon": "Seere", "relation": "Under AMAYMON, King of the East"},
+      {"demon": "Gäap", "relation": "Can teach the consecration of things belonging to the Dominion of AMAYMON his King"}
+    ]
+  },
+  "chief_spirits": {
+    "names": ["Belial", "Bileth (Beleth)", "Asmoday", "Gäap"],
+    "description": "Of the 72, these four are named as Chief. The text says Solomon bound them because of their pride, sealed them in the Vessel of Brass, and cast them into a deep lake or hole in Babylon; when the Babylonians broke the vessel open, the Chief Spirits flew out first with their legions following."
+  },
+  "order_of_origin_notes": [
+    {"demon": "Agares", "note": "Was of the Order of Virtues."},
+    {"demon": "Barbatos", "note": "Was of the Order of Virtues, of which some part he retains still."},
+    {"demon": "Paimon", "note": "Of the Order of Dominations; part of his legions are of the Order of Angels and part of Potentates."},
+    {"demon": "Beleth", "note": "Of the Order of Powers."},
+    {"demon": "Purson", "note": "Legions partly of the Order of Virtues and partly of the Order of Thrones."},
+    {"demon": "Forneus", "note": "Legions partly of the Order of Thrones and partly of that of Angels."},
+    {"demon": "Marchosias", "note": "Was of the Order of Dominations."},
+    {"demon": "Räum", "note": "Was of the Order of Thrones."},
+    {"demon": "Gäap", "note": "Was of the Order of Potentates."},
+    {"demon": "Uvall", "note": "Was of the Order of Potestates or Powers."},
+    {"demon": "Crocell", "note": "Was of the Order of Potestates or Powers before his fall."},
+    {"demon": "Camio", "note": "Was of the Order of Angels, but now rules over 30 Legions of Spirits Infernal."},
+    {"demon": "Murmur", "note": "Was partly of the Order of Thrones and partly of that of Angels."},
+    {"demon": "Belial", "note": "Created next after LUCIFER; fell first from among the worthier sort before Michael."}
+  ],
+  "source": "De Laurence 1916, catalogue end-note (p. 33 of PDF), classified list (p. 35 of PDF), and individual entries"
+}

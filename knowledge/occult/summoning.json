@@ -1,0 +1,27 @@
+{
+  "disclaimer": "This file describes what the source text says about its ceremonial procedures. It is presented for historical and educational study. It is not a guide, and it does not instruct the reader to perform anything.",
+  "textual_claims": {
+    "preliminary_invocation": "The De Laurence edition opens with a 'Preliminary Invocation' addressed to the 'Bornless One', calling on names including Osorronophris, Jābas, Jāpōs, and Iao Sabao, and asking that 'all Spirits' be made subject.",
+    "preliminary_definition_of_magic": "A 'Preliminary Definition of Magic' distinguishes Natural Magic from Diabolical magic and Nigromancy, quoting Origen, Apollonius Tyannaeus, and Philo Hebraeus.",
+    "brief_introductory_description": "The text describes the Lemegeton as containing the names, offices, and orders of all spirits Solomon conversed with, with seals and characters and 'the manner of calling them forth to visible appearance'."
+  },
+  "apparatus_described_in_text": [
+    {"item": "Magical Circle", "description": "Described as 9 feet across, with divine names written around it beginning at EHYEH and ending at LEVANAH; colours specified (yellow band with serpent and Hebrew names, red central square with the word 'Master', black names and letters)."},
+    {"item": "Magical Triangle", "description": "Described as made 2 feet from the circle and 3 feet across, placed toward the quarter to which the spirit belongs, base nearest the circle, apex pointing toward the spirit's quarter; names of Michael and others inscribed."},
+    {"item": "Hexagram of Solomon", "description": "Described as made on parchment of calf's skin, worn at the skirt of a white vestment, covered with fine white linen, and shown to spirits so they take human shape and be obedient."},
+    {"item": "Pentagram (Pentacle) of Solomon", "description": "Described as made in gold or silver, worn on the breast with the spirit's seal on the other side, to preserve from danger and to command spirits by."},
+    {"item": "Magic Ring or Disc of Solomon", "description": "Described as made in gold or silver, held before the face of the exorcist to preserve him from 'stinking sulphurous fumes and flaming breath' of the spirits."},
+    {"item": "Vessel of Brass", "description": "Described as the vessel wherein Solomon shut up the evil spirits; the text notes different forms in various codices and compares the story to the 'Fisherman and the Jinni' tale in the Arabian Nights."},
+    {"item": "Secret Seal of Solomon", "description": "Described as the seal wherewith Solomon bound and sealed the spirits in the Vessel of Brass; the text gives elaborate (descriptive) specifications for its making."},
+    {"item": "Other requisites", "description": "A sceptre, a sword, a mitre, a cap, a long white linen robe and other garments, a girdle of lion's skin three inches broad with names written about it, perfumes, a chafing-dish of charcoal, anointing oil, and fair water."}
+  ],
+  "textual_procedure_as_described": [
+    "The text describes observing the Moon's age (days 2, 4, 6, 8, 10, 12, or 14 said to be best) and binding times by rank (e.g., Kings from 9 till 12 at noon and 3 till sunset; Marquises from 3 in the afternoon till 9 at night and 9 at night till sunrise; Dukes from sunrise till noonday in clear weather; Prelates any hour of the day; Knights from dawning till sunrise or 4 till sunset; Presidents any time except twilight at night unless the King they are under be invocated; Earls any hour in woods or places where men resort not).",
+    "The text gives a 'Conjuration to Call Forth Any of the Aforesaid Spirits', a 'Second Conjuration', a 'Constraint', an 'Invocation of the King', a 'General Curse, called the Spirits' Chain', a 'Conjuration of the Fire', a 'Greater Curse', an 'Address unto the Spirit upon his Coming', a 'Welcome unto the Spirit', and a 'License to Depart'.",
+    "The text says a spirit that does not come may be sent by its King, or bound in chains in hell; in the latter case the 'Spirits' Chain' is to be added.",
+    "The text describes writing a spirit's seal on parchment, placing it in a black box with brimstone and assafoetida, binding the box with iron wire, hanging it on the point of a sword over charcoal fire, and later quenching the fire and making a sweet perfume when the spirit comes.",
+    "The text describes commanding spirits into the Vessel of Brass in the same manner as into the triangle."
+  ],
+  "note_on_interpretation": "The 1904 editor's 'Initiated Interpretation of Ceremonial Magic' argues that the spirits of the Goetia are 'portions of the human brain' and that the operations are 'a series of minute, though of course empirical, physiological experiments'. This is presented in the source as one interpretive lens, not as the text's own claim.",
+  "sources": ["De Laurence 1916, pp. 34–54 and 36–42 of PDF", "Goetia (magic) — Wikipedia"]
+}

@@ -1,0 +1,61 @@
+{
+  "disclaimer": "Descriptions of what the source text says about each symbol. Not instructions.",
+  "symbols": [
+    {
+      "name": "Magical Circle",
+      "text_description": "A circle described as 9 feet across, with the Divine Names written around it, beginning at EHYEH and ending at LEVANAH, Luna. Colours: the space between the outer and inner circles, where the serpent is coiled with Hebrew names along his body, is bright deep yellow; the central square where 'Master' is written is red; all names and letters are black. In the Hexagrams the outer triangles where A, D, O, N, A, I appear are bright yellow; the centres with T-shaped crosses are blue or green. In the Pentagrams outside the circle the outer triangles where 'Te, tra, gram, ma, ton' is written are bright yellow; the centres with T crosses are red.",
+      "purpose_as_stated": "Made, the text says, so that Solomon might preserve himself therein from the malice of the evil spirits.",
+      "figure": "Figure 153 (Frontispiece)"
+    },
+    {
+      "name": "Magical Triangle",
+      "text_description": "Described as made 2 feet from the Magical Circle and 3 feet across; placed toward the quarter to which the spirit belongs; base nearest the circle, apex pointing toward the spirit's quarter. Colours: outlined in black; name of Michael black on white ground; the three Names without the triangle in red; the circle in the centre entirely dark green.",
+      "purpose_as_stated": "The form into which Solomon commanded the evil spirits.",
+      "figure": "Figure 154"
+    },
+    {
+      "name": "Hexagram of Solomon",
+      "text_description": "Described as made on parchment of a calf's skin and worn at the skirt of a white vestment, covered with a cloth of fine white linen. Colours: circle, hexagon, and T cross in centre outlined in black; Maltese crosses black; five exterior triangles (where 'Te, tra, gram, ma, ton' is written) bright yellow; the T cross in centre red with three little black squares; the lower exterior triangle (where the Sigil is drawn in black) left white; 'Tetragrammaton' and 'Tau' in black; AGLA with Alpha and Omega in red.",
+      "purpose_as_stated": "Shown unto the spirits when they appear, so that they be compelled to take human shape and be obedient.",
+      "figure": "Figure 155"
+    },
+    {
+      "name": "Pentagram (Pentacle) of Solomon",
+      "text_description": "Described as made in Sol or Luna (gold or silver) and worn upon the breast, with the Seal of the spirit required upon the other side. Colours: circle and pentagram outlined in black; names and sigils within the pentagram black; 'Tetragrammaton' in red; ground of centre where 'Soluzen' is written green; external angles where 'Abdia', 'Ballaton', 'Halliza', etc. are written blue.",
+      "purpose_as_stated": "To preserve the wearer from danger and to command the spirits by.",
+      "figure": "Figure 156"
+    },
+    {
+      "name": "Magic Ring or Disc of Solomon",
+      "text_description": "Described as made in gold or silver. Colour: bright yellow; letters black.",
+      "purpose_as_stated": "Held before the face of the exorcist to preserve him from the stinking sulphurous fumes and flaming breath of the evil spirits.",
+      "figure": "Figures 157 (ring) and 158–159 (vessel)"
+    },
+    {
+      "name": "Vessel of Brass",
+      "text_description": "The brazen vessel wherein King Solomon shut up the evil spirits. The text notes somewhat different forms are given in the various codices, and that the seal in Figure 160 was made in brass to cover the vessel at the top. Colour: bronze; letters black on a red band.",
+      "purpose_as_stated": "Solomon is said to have bound the 72 spirits and their legions in it, sealed it with the Secret Seal, and cast it into a deep lake or hole in Babylon.",
+      "figure": "Figures 158–160"
+    },
+    {
+      "name": "Secret Seal of Solomon",
+      "text_description": "The seal wherewith Solomon is said to have bound and sealed the spirits in the Vessel of Brass. The text gives elaborate specifications (a clean person, a month of continence, prayer and fasting; made on the day of Mars or Saturn at night at 12 o'clock; written on virgin parchment with the blood of a black cock; moon increasing in light and in the sign of Virgo; perfumed with alum, raisins dried in the sun, dates, cedar, and lignum aloes). Note: figures 162–174 are shown as comparable steles and designs, mostly stone sepulchral steles in the Musée du Louvre.",
+      "purpose_as_stated": "By this seal, the text says, Solomon commanded all the spirits in the Vessel of Brass, gained the love of all manner of persons, and overcame in battle.",
+      "figure": "Figure 161 and figures 162–174"
+    },
+    {
+      "name": "The Two Triangles in the Parchment",
+      "text_description": "The text explains words written in the triangles: Alpha and Omega, Tetragrammaton, Soluzen, Halliza, Bellator (or Ballaton), Bellonoy (or Bellony), Hallii Hra.",
+      "purpose_as_stated": "Explained as commands for a spirit to come unto the circle, appear in human shape, speak audibly, show and discover treasure, and answer questions.",
+      "note": "This explanation is evidently of both the Hexagram and Pentagram of Solomon (footnote 40).",
+      "figure": "Figures 155–156"
+    },
+    {
+      "name": "Solomon's Triangle (explanation)",
+      "text_description": "The names Anephezeton, Primeumaton, and Michael are explained as: 'Thou great God of all the Heavenly Host'; 'Thou Who art the First and Last, let all spirits be subject unto us, and let the Spirit be bound in this triangle, which disturbs this place'; 'By Thy Holy Angel Michael, until I shall discharge him.'",
+      "purpose_as_stated": "An explanation of the names in Solomon's Triangle.",
+      "figure": "Figure 154"
+    }
+  ],
+  "sources": ["De Laurence 1916, pp. 36–43, 57–58 of PDF"]
+}

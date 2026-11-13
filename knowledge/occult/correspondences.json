@@ -1,0 +1,32 @@
+{
+  "rank_to_metal": [
+    {"rank": "King", "metal": "Gold", "planet": "Sol (Sun)"},
+    {"rank": "Marquis", "metal": "Silver", "planet": "Luna (Moon)"},
+    {"rank": "Duke", "metal": "Copper", "planet": "Venus"},
+    {"rank": "Prince / Prelate", "metal": "Tin", "planet": "Jupiter"},
+    {"rank": "Knight", "metal": "Lead", "planet": "Saturn"},
+    {"rank": "President", "metal": "Mercury (and mixtures)", "planet": "Mercury"},
+    {"rank": "Earl / Count", "metal": "Copper and Silver alike equal", "planet": "Venus and Luna"}
+  ],
+  "planet_to_metal_full_list": {
+    "Saturn": "Lead",
+    "Jupiter": "Tin",
+    "Mars": "Iron",
+    "Sun": "Gold",
+    "Venus": "Copper",
+    "Mercury": "Mercury and mixtures of Metals",
+    "Luna": "Silver"
+  },
+  "editorial_note": "The text remarks that 'probably the Seals of Earls should be made of Iron, and those of Presidents in mixture either of Copper and Silver, or of Silver and Mercury; as otherwise the Metal of one Planet, Mars, is excluded from the List.' This is an editorial conjecture in the source, not a settled correspondence.",
+  "binding_times_by_rank": [
+    {"rank": "Kings", "times": "From 9 till 12 o'clock at Noon, and from 3 till Sunset"},
+    {"rank": "Marquises", "times": "From 3 in the afternoon till 9 at Night, and from 9 at Night till Sunrise"},
+    {"rank": "Dukes", "times": "From Sunrise till Noonday in Clear Weather"},
+    {"rank": "Prelates", "times": "Any hour of the Day"},
+    {"rank": "Knights", "times": "From Dawning of Day till Sunrise, or from 4 o'clock till Sunset"},
+    {"rank": "Presidents", "times": "Any time, excepting Twilight at Night, unless the King whom they are under be Invocated"},
+    {"rank": "Counties or Earls", "times": "Any hour of the Day, so it be in Woods, or in any other places whither men resort not, or where no noise is"}
+  ],
+  "moon_observations": "The text says the best days are when the Moon is 2, 4, 6, 8, 10, 12, or 14 days old, 'as Solomon saith', and no other days be profitable.",
+  "source": "De Laurence 1916, 'Observations' (p. 34 of PDF) and classified list footnote (p. 35 of PDF)"
+}

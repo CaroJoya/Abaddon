@@ -1,0 +1,141 @@
+{
+  "ranks": [
+    {
+      "rank": "King",
+      "seal_metal": "Gold (Sol)",
+      "demons": [
+        {"number": 1, "name": "Bael"},
+        {"number": 9, "name": "Paimon"},
+        {"number": 13, "name": "Beleth"},
+        {"number": 20, "name": "Purson"},
+        {"number": 32, "name": "Asmoday"},
+        {"number": 45, "name": "Viné"},
+        {"number": 51, "name": "Balam"},
+        {"number": 61, "name": "Zagan"},
+        {"number": 68, "name": "Belial"}
+      ]
+    },
+    {
+      "rank": "Duke",
+      "seal_metal": "Copper (Venus)",
+      "demons": [
+        {"number": 2, "name": "Agares"},
+        {"number": 6, "name": "Valefor"},
+        {"number": 8, "name": "Barbatos"},
+        {"number": 11, "name": "Gusion"},
+        {"number": 15, "name": "Eligos"},
+        {"number": 16, "name": "Zepar"},
+        {"number": 18, "name": "Bathin"},
+        {"number": 19, "name": "Sallos"},
+        {"number": 23, "name": "Aim"},
+        {"number": 26, "name": "Buné"},
+        {"number": 28, "name": "Berith"},
+        {"number": 29, "name": "Astaroth"},
+        {"number": 41, "name": "Focalor"},
+        {"number": 42, "name": "Vepar"},
+        {"number": 47, "name": "Vual"},
+        {"number": 49, "name": "Crocell"},
+        {"number": 52, "name": "Alloces"},
+        {"number": 54, "name": "Murmur"},
+        {"number": 56, "name": "Gremory"},
+        {"number": 60, "name": "Vapula"},
+        {"number": 64, "name": "Haures"},
+        {"number": 67, "name": "Amdusias"},
+        {"number": 71, "name": "Dantalion"}
+      ]
+    },
+    {
+      "rank": "Prince / Prelate",
+      "seal_metal": "Tin (Jupiter)",
+      "note": "'Prince' and 'Prelate' are apparently used as interchangeable terms in the classified list.",
+      "demons": [
+        {"number": 3, "name": "Vassago"},
+        {"number": 12, "name": "Sitri"},
+        {"number": 22, "name": "Ipos"},
+        {"number": 33, "name": "Gäap"},
+        {"number": 36, "name": "Stolas"},
+        {"number": 55, "name": "Orobas"},
+        {"number": 70, "name": "Seere"}
+      ]
+    },
+    {
+      "rank": "Marquis",
+      "seal_metal": "Silver (Luna)",
+      "demons": [
+        {"number": 4, "name": "Samigina"},
+        {"number": 7, "name": "Amon"},
+        {"number": 14, "name": "Lerajé"},
+        {"number": 24, "name": "Naberius"},
+        {"number": 27, "name": "Ronové"},
+        {"number": 30, "name": "Forneus"},
+        {"number": 35, "name": "Marchosias"},
+        {"number": 37, "name": "Phenex"},
+        {"number": 43, "name": "Sabnock"},
+        {"number": 44, "name": "Shax"},
+        {"number": 59, "name": "Orias"},
+        {"number": 63, "name": "Andras"},
+        {"number": 65, "name": "Andrealphus"},
+        {"number": 66, "name": "Cimeies"},
+        {"number": 69, "name": "Decarabia"}
+      ]
+    },
+    {
+      "rank": "President",
+      "seal_metal": "Mercury (Mercury)",
+      "demons": [
+        {"number": 5, "name": "Marbas"},
+        {"number": 10, "name": "Buer"},
+        {"number": 17, "name": "Botis"},
+        {"number": 21, "name": "Marax"},
+        {"number": 25, "name": "Glasya-Labolas"},
+        {"number": 31, "name": "Foras"},
+        {"number": 33, "name": "Gäap"},
+        {"number": 39, "name": "Malphas"},
+        {"number": 48, "name": "Häagenti"},
+        {"number": 53, "name": "Caïm"},
+        {"number": 57, "name": "Ose"},
+        {"number": 58, "name": "Amy"},
+        {"number": 61, "name": "Zagan"},
+        {"number": 62, "name": "Valac"}
+      ]
+    },
+    {
+      "rank": "Earl / Count",
+      "seal_metal": "Copper and Silver alike equal",
+      "demons": [
+        {"number": 17, "name": "Botis"},
+        {"number": 21, "name": "Marax"},
+        {"number": 25, "name": "Glasya-Labolas"},
+        {"number": 27, "name": "Ronové"},
+        {"number": 34, "name": "Furfur"},
+        {"number": 38, "name": "Halphas"},
+        {"number": 40, "name": "Räum"},
+        {"number": 45, "name": "Viné"},
+        {"number": 46, "name": "Bifrons"},
+        {"number": 72, "name": "Andromalius"}
+      ]
+    },
+    {
+      "rank": "Knight",
+      "seal_metal": "Lead (Saturn)",
+      "demons": [
+        {"number": 50, "name": "Furcas"}
+      ]
+    }
+  ],
+  "dual_rank_demons": [
+    {"name": "Botis", "ranks": ["President", "Earl"]},
+    {"name": "Marax", "ranks": ["Earl", "President"]},
+    {"name": "Glasya-Labolas", "ranks": ["President", "Earl"]},
+    {"name": "Ronové", "ranks": ["Marquis", "Earl"]},
+    {"name": "Viné", "ranks": ["King", "Earl"]},
+    {"name": "Bifrons", "ranks": ["Earl"]},
+    {"name": "Ipos", "ranks": ["Earl", "Prince"]},
+    {"name": "Gäap", "ranks": ["President", "Prince"]},
+    {"name": "Zagan", "ranks": ["King", "President"]},
+    {"name": "Murmur", "ranks": ["Duke", "Earl"]},
+    {"name": "Botis", "ranks": ["President", "Earl"]}
+  ],
+  "seal_metal_source_note": "The 'Observations' section of the De Laurence text assigns seal metals by rank. A footnote remarks that 'probably the Seals of Earls should be made of Iron, and those of Presidents in mixture either of Copper and Silver, or of Silver and Mercury' — otherwise Mars (Iron) is excluded from the list. The metals attributed to the Seven Planets are: Saturn=Lead, Jupiter=Tin, Mars=Iron, Sun=Gold, Venus=Copper, Mercury=Mercury/mixtures, Luna=Silver.",
+  "source": "De Laurence 1916, 'Observations' and 'Classified List of the 72 Chief Spirits of the Goetia, According to Respective Rank' (pp. 34–35 of PDF)"
+}
